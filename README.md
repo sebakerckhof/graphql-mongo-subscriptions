@@ -1,7 +1,9 @@
-# graphql-mongo-subscriptions
+# graphql-mongo-subscriptions (WIP)
 
 This package implements the PubSubEngine Interface from the graphql-subscriptions package. 
 It allows you to connect your subscriptions manager to mongo oplog events.
+
+** Work in progress **
    
    
 ## Usage
